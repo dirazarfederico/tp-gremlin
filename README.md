@@ -1,3 +1,3 @@
 # Tp-Gremlin
 
-Graph database coursework using Apache Tinkerpop.
+Graph database coursework using **Apache Tinkerpop**.
